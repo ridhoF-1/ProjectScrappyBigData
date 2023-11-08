@@ -3,9 +3,9 @@
 #### Nama: Ridho Ferdiansa
 #### NPM: 2108107010039
 
-'''python
+```python
 pip install scrapy
-'''
+```
 
 ##### Slide PPT:
 
