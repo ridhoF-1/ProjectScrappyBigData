@@ -1,8 +1,11 @@
-# ProjectScrappyBigData
+ # ProjectScrappyBigData
 
 #### Nama: Ridho Ferdiansa
 #### NPM: 2108107010039
 
+'''python
+pip install scrapy
+'''
 
 ##### Slide PPT:
 
