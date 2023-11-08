@@ -3,10 +3,24 @@
 #### Nama: Ridho Ferdiansa
 #### NPM: 2108107010039
 
-```python
-pip install scrapy
-```
-
+##### Langkah-langkah:
+- Membuat virtual environtment baru
+  ```python
+  python3 -m venv scrap
+  source scrap/bin/activate
+  ```
+- Menginstall scrapy
+  ```python
+  pip install scrapy
+  ```
+- Membuat project scrapy baru
+  ```python
+  scrapy startproject scraping
+  ```
+- Menjalankan script yang telah dibuat
+  ```python
+  scrapy crawl spiders/motor.py -o motor.json
+  ```
 ##### Slide PPT:
 
 ![slide-1](https://github.com/ridhoF-1/ProjectScrappyBigData/blob/main/Slide-bigData/1.png)
